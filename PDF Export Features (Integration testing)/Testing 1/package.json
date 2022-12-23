@@ -1,0 +1,16 @@
+{
+  "name": "codexam",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+
+  "author": "Subham Maity",
+  "license": "MIT",
+  "dependencies": {
+    "@progress/kendo-drawing": "^1.17.2",
+    "@progress/kendo-licensing": "^1.2.2",
+    "@progress/kendo-react-buttons": "^5.9.0",
+    "@progress/kendo-react-pdf": "^5.9.0"
+  }
